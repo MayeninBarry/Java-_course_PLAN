@@ -1,0 +1,163 @@
+Month 1 – JavaScript & React Basics
+
+Week 1:
+
+Learn JavaScript fundamentals (variables, loops, arrays, objects).
+
+Practice coding on freeCodeCamp or HackerRank.
+
+Week 2:
+
+Dive into ES6+ features: let/const, arrow functions, async/await.
+
+Build mini JS exercises (calculator, random quote generator).
+
+Week 3:
+
+Learn React basics: JSX, Components, Props, State.
+
+Build a Counter App and Todo App (React Web).
+
+Week 4:
+
+Learn Hooks (useState, useEffect).
+
+Practice with a Weather App (React Web) that fetches API data.
+
+Month 2 – React Native Fundamentals
+
+Week 5:
+
+Install Node.js, VS Code, Expo CLI.
+
+Run your first React Native app.
+
+Week 6:
+
+Learn core components: View, Text, Image, Button, ScrollView.
+
+Style layouts with Flexbox.
+
+Build a Profile Card App.
+
+Week 7:
+
+Learn TextInput & handling form data.
+
+Build a Login UI Clone (no backend yet).
+
+Week 8:
+
+Install & use React Navigation (Stack, Tabs).
+
+Build a Multi-Screen Notes App.
+
+Month 3 – State & APIs
+
+Week 9:
+
+Learn Context API for state management.
+
+Refactor Notes App with Context.
+
+Week 10:
+
+Learn Redux Toolkit or Zustand (pick one).
+
+Build a Shopping Cart App with Redux.
+
+Week 11:
+
+Fetch APIs using Axios.
+
+Build a Movies Browser App with an external API (OMDb API).
+
+Week 12:
+
+Practice API integration + navigation together.
+
+Build a News Reader App.
+
+Month 4 – Advanced Features
+
+Week 13:
+
+Firebase Authentication (signup, login, logout).
+
+Add Auth to Login App.
+
+Week 14:
+
+Firebase Firestore (cloud database).
+
+Build a Chat App with Firestore.
+
+Week 15:
+
+Learn device features: Camera & Image Picker.
+
+Build a Photo Upload App.
+
+Week 16:
+
+Learn push notifications (Expo Notifications).
+
+Add notifications to Food Delivery App (start building it).
+
+Month 5 – Testing, Deployment, & CI/CD
+
+Week 17:
+
+Debugging tools (React Native Debugger, Flipper).
+
+Learn error handling.
+
+Week 18:
+
+Unit testing with Jest & React Testing Library.
+
+Write tests for Notes App.
+
+Week 19:
+
+Android app builds: generate APK & AAB.
+
+Test on a real Android device.
+
+Week 20:
+
+iOS build (via Expo or Xcode).
+
+Learn how to publish to App Store & Play Store.
+
+Month 6 – Portfolio & Job-Readiness
+
+Week 21:
+
+Build 🚖 Ride-Hailing App (Uber Clone Lite) with Maps + Location.
+
+Week 22:
+
+Build 🛒 E-commerce App (products, cart, checkout with Firebase).
+
+Week 23:
+
+Build 🏦 Fintech/Wallet App (login, transactions, secure storage).
+
+Week 24:
+
+Polish apps → add README, screenshots, deploy test builds.
+
+Week 25:
+
+Learn TypeScript with React Native (refactor one app).
+
+Add CI/CD with GitHub Actions (automated builds).
+
+Week 26:
+
+Prepare Portfolio Website + GitHub profile.
+
+Start applying for freelance jobs or junior dev positions.
+
+✅ By the end of 6 months, you’ll have 3 big portfolio apps + multiple small apps, making you very attractive to recruiters.
