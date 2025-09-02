@@ -1,0 +1,99 @@
+
+# 🚀 React Native Learning Roadmap (6 Months)
+
+This repository tracks weekly progress in learning **React Native**, covering fundamentals, advanced concepts, and portfolio projects.
+
+---
+
+## 📅 Timeline & Milestones
+
+### **Month 1 – JavaScript & React Basics**
+
+* [ ] Week 1: JavaScript fundamentals (variables, loops, arrays, objects)
+* [ ] Week 2: ES6+ (arrow functions, async/await, destructuring)
+* [ ] Week 3: React basics (JSX, Components, Props, State)
+* [ ] Week 4: Hooks (`useState`, `useEffect`) + Weather App
+
+---
+
+### **Month 2 – React Native Fundamentals**
+
+* [ ] Week 5: Setup Node.js, VS Code, Expo CLI, run first RN app
+* [ ] Week 6: Core components (`View`, `Text`, `Image`, `Button`, `ScrollView`) + Profile Card
+* [ ] Week 7: TextInput, form handling → Login UI clone
+* [ ] Week 8: React Navigation (Stack, Tabs) → Notes App
+
+---
+
+### **Month 3 – State & APIs**
+
+* [ ] Week 9: Context API for state management → Refactor Notes App
+* [ ] Week 10: Redux Toolkit or Zustand → Shopping Cart App
+* [ ] Week 11: API calls with Axios → Movies Browser App
+* [ ] Week 12: Combine navigation + API → News Reader App
+
+---
+
+### **Month 4 – Advanced Features**
+
+* [ ] Week 13: Firebase Authentication → Auth system for Login App
+* [ ] Week 14: Firestore → Chat App
+* [ ] Week 15: Camera & Image Picker → Photo Upload App
+* [ ] Week 16: Push Notifications (Expo) → Food Delivery App
+
+---
+
+### **Month 5 – Testing & Deployment**
+
+* [ ] Week 17: Debugging tools (Flipper, RN Debugger), error handling
+* [ ] Week 18: Testing with Jest + RTL → Write tests for Notes App
+* [ ] Week 19: Android builds (APK & AAB) → Deploy test build
+* [ ] Week 20: iOS builds (Expo / Xcode) → Test + publish
+
+---
+
+### **Month 6 – Portfolio & Job Prep**
+
+* [ ] Week 21: 🚖 Uber Clone Lite (maps + location)
+* [ ] Week 22: 🛒 E-commerce App (cart + checkout + Firebase)
+* [ ] Week 23: 🏦 Fintech Wallet App (transactions + secure storage)
+* [ ] Week 24: Polish apps, README, screenshots, demos
+* [ ] Week 25: Add TypeScript + GitHub Actions CI/CD
+* [ ] Week 26: Portfolio website + Apply to jobs/freelance
+
+---
+
+## 🛠 Tools & Setup
+
+* **Code Editor:** VS Code
+* **Version Control:** Git + GitHub
+* **Mobile Testing:** Expo Go App, Android Studio, Xcode (for iOS)
+* **CI/CD:** GitHub Actions, Fastlane (optional)
+* **Backend:** Firebase (Auth, Firestore, Storage), or Node.js
+
+---
+
+## 📂 Repository Structure Example
+
+```
+/week1-js-basics
+/week3-react-todo
+/week6-profile-card
+/week8-notes-app
+/week10-shopping-cart
+/week14-chat-app
+/week21-uber-clone
+/week22-ecommerce
+/week23-fintech-wallet
+```
+
+---
+
+## ✅ Progress Tracking
+
+* [ ] Complete all **weekly checklists**
+* [ ] Push code after each week
+* [ ] Update README with learnings & screenshots
+* [ ] Write reflections (what went well, challenges, improvements)
+
+
